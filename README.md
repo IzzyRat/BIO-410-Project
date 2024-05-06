@@ -9,6 +9,6 @@ Thus, this dataset utilizes known CRP binding sites in *E*. *coli* to generate a
 The libraries utilized in this project are: seqinr, Biostrings, rentrez, compbio4all, and ggplot2. All source code utilized to generate a PSSM and scores for the unknown DNA sequences can be viewed in the R file titled “StructuralAnnotationRMethod”. The known *E*. *coli* CRP binding sequences and unknown DNA sequences can both be found within this file. 
 
 ### Results
-!(StructuralAnnotationPSSM.png)
+![](StructuralAnnotationPSSM.png)
 
 **Figure 1** depicts the final PSSM that was produced from the known CRP binding site DNA sequences in E. coli. This PSSM was used to score the three unknown DNA sequences in terms of their likelihood of being a CRP binding site, as shown in **Figure 2**. As this figure shows, Sequence 1 has the highest likelihood of being a CRP binding site, with a specific score of 4.506846. This is followed by Sequence 3, which has a likelihood score of 1.504502. Finally, Sequence 2 is unlikely to be a CRP binding site, as it has a negative likelihood score of -0.4891057. As a result, since CRP is global transcription factor for a ton of genes in the E. coli genome, it is most worthwhile to explore the presence of a gene near Sequence 1 followed by Sequence 3. Similarly, Sequence 2 has a low likelihood score of being a CRP binding site, and, thus, is the least likely to have a gene near it. 
