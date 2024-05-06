@@ -21,10 +21,16 @@ The libraries utilized in this project are: seqinr, Biostrings, rentrez, compbio
 
 ### References
 Davis, R., Écija‐Conesa, A., Gallego‐Jara, J., de Diego, T., Filippova, E. V., Kuffel, G., Anderson, W. F., Gibson, B. W., Schilling, B., Canovas, M., & Wolfe, A. J. (2017). An acetylatable lysine controls CRP function in E. coli. Molecular Microbiology, 107(1), 116–131. https://doi.org/10.1111/mmi.13874 
+
 Ejigu, G. F., & Jung, J. (2020). Review on the computational genome annotation of sequences obtained by next-generation sequencing. Biology, 9(9), 295. https://doi.org/10.3390/biology9090295 
+
 Henikoff, J. G., & Henikoff, S. (1996). Using substitution probabilities to improve position-specific scoring matrices. Bioinformatics, 12(2), 135–143. https://doi.org/10.1093/bioinformatics/12.2.135 
+
 Ishihama, A., Shimada, T., & Yamazaki, Y. (2016). Transcription profile of escherichia coli: Genomic SELEX search for regulatory targets of transcription factors. Nucleic Acids Research, 44(5), 2058–2074. https://doi.org/10.1093/nar/gkw051 
+
 Martı́nez-Antonio, A., & Collado-Vides, J. (2003). Identifying global regulators in transcriptional regulatory networks in bacteria. Current Opinion in Microbiology, 6(5), 482–489. https://doi.org/10.1016/j.mib.2003.09.002 
+
 Panchenko, A. R., & Bryant, S. H. (2002). A comparison of position‐specific score matrices based on sequence and structure alignments. Protein Science, 11(2), 361–370. https://doi.org/10.1110/ps.19902 
+
 Tripp, H. J., Sutton, G., White, O., Wortman, J., Pati, A., Mikhailova, N., Ovchinnikova, G., Payne, S. H., Kyrpides, N. C., & Ivanova, N. (2015). Toward a standard in structural genome annotation for prokaryotes. Standards in Genomic Sciences, 10(1). https://doi.org/10.1186/s40793-015-0034-9 
 
