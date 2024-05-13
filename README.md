@@ -6,7 +6,7 @@ cAMP receptor protein (CRP) is a global transcription factor that in *Escherichi
 Thus, this dataset utilizes known CRP binding sites in *E*. *coli* to generate a PSSM, which is then utilized to calculate the likelihood that three unknown DNA sequences are CRP binding sites. Sequences with a high likelihood of being a CRP binding site can then be investigated further to determine if a gene is present. 
 
 ### Methods
-The libraries utilized in this project are: seqinr, Biostrings, rentrez, compbio4all, and ggplot2. All source code utilized to generate a PSSM and scores for the unknown DNA sequences can be viewed in the R file titled “StructuralAnnotationRMethod”. The known *E*. *coli* CRP binding sequences and unknown DNA sequences can both be found within this file. 
+The libraries utilized in this project are: seqinr, Biostrings, rentrez, compbio4all, and ggplot2. All source code utilized to generate a PSSM and scores for the unknown DNA sequences can be viewed in the R file titled “StructuralAnnotationRMethod.R”. The known *E*. *coli* CRP binding sequences and unknown DNA sequences can both be found within this file. 
 
 ### Results
 ![](StructuralAnnotationPSSM.png)
